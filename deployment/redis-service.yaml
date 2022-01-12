@@ -3,13 +3,13 @@ kind: Service
 metadata:
   name: redis
   labels:
-     name: redis-service
-     app: myapp-pod
+     name: redis
+     app: myapp
 spec:
 ##clusterIP by default
   selector:
-     name: redis-pod
-     app: myapp-pod  
+     name: redis
+     app: myapp 
   ports:
   ##port of redis 
     - port: 6379
