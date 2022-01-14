@@ -114,7 +114,7 @@ $ kubectl get ingress
 ```
 ##### copy IP into your browser 
 
-# congratulations your application noe UP and Running 
+# congratulations your application now UP and Running 
 
 ![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/browser.png)
 
