@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: moatazxz/webapp:latest
+        image: gcr.io/positive-bonbon-337300/webapp
         env:
           - name: REDIS_HOST
             value: "redis"

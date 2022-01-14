@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
         - name: redis
-          image: redis
+          image: gcr.io/positive-bonbon-337300/redis
           ports:
             - containerPort: 6379
