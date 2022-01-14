@@ -9,9 +9,16 @@ resource "google_compute_instance" "privare_vm" {
     }
   }
 
+
   network_interface {
      network = google_compute_network.vpc_network.id 
      subnetwork = google_compute_subnetwork.Management.id
   }
+
+  service_account {
+    email  = google_service_account.access.email
+    scopes = ["cloud-platform"]
+  }
 }
 
+# gcloud container clusters get-credentials myapp --region us-central1 --project positive-bonbon-337300

@@ -27,8 +27,6 @@ resource "google_compute_router" "router" {
   name    = "my-router"
   region  = google_compute_subnetwork.Management.region
   network = google_compute_network.vpc_network.id
-
- 
 }
 
 resource "google_compute_router_nat" "nat" {
@@ -57,7 +55,7 @@ resource "google_compute_firewall" "allow_iap" {
 
   allow {
     protocol = "tcp"
-    ports    = ["22"]
+    ports    = ["22","80","443"]
   }
   source_ranges = ["35.235.240.0/20"]
 

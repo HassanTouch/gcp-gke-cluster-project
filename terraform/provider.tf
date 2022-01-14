@@ -1,4 +1,4 @@
 provider "google" {
-  project     = "positive-bonbon-337300"
+  project     = "webappgke"
   region      = "us-central1"
 }
