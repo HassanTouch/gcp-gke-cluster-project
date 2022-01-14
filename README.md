@@ -130,9 +130,6 @@ $ kubectl get ingress
 ![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/VMterminal.png)
 
 
-
-![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/cluster_view.png)
-
 # Ingress view
 
 ![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/ingress.png)
