@@ -118,4 +118,36 @@ $ kubectl get ingress
 
 ![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/browser.png)
 
+# cluster view  
+
+![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/cluster2.png)
+
+
+![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/cluster1.png)
+
+# VM terminal view 
+
+![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/VMterminal.png)
+
+
+
+![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/cluster_view.png)
+
+# Ingress view
+
+![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/ingress.png)
+
+# cluster noed and vm 
+
+![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/VM's.png)
+
+# GCR
+
+![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/GCR.png)
+
+# services 
+
+![alt text](https://github.com/Moatazxz/gcp-gke-cluster-project/blob/main/screenshots/services.png)
+
+
 
